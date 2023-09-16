@@ -1,2 +1,5 @@
 # csbmb2021
-slides for the XXVI. Annual Congress of Czech and Slovak Societies for Biochemistry and Molecular Biology, České Buděkovice, Czech Republic
+
+A talk at the XXVI. Annual Congress of Czech and Slovak Societies for Biochemistry and Molecular Biology, České Budějovice, Czech Republic.
+
+2021-09-02
